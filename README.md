@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rodriiii94/rodriiii94/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/rodriiii94/rodriiii94/output/snake.svg" alt="Snake animation" />-->
 
 ###
