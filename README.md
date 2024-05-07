@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="[https://www.youtube.com/](https://www.youtube.com/channel/UC3WaSZgbcta319eoSdJWENw)" target="_blank">
+  <a href="https://www.youtube.com/channel/UC3WaSZgbcta319eoSdJWENw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/rodriiii94/" target="_blank">
