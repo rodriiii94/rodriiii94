@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rodrigo and I'm a 1st Grade DAW Student. Madrid, Spain</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo and I'm a 2nd Grade DAW Student. Madrid, Spain</h2>
 
 ###
 
