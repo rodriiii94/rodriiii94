@@ -1,7 +1,5 @@
 <h2 align="left">Hola👋, me llamo Rodri y soy estudiante de Desarrollo Web</h2>
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
-
 ###
 
 <h2 align="left">Frontend</h2>
