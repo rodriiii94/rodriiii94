@@ -29,8 +29,6 @@
 
 <h3 align="left">Backend</h3>
 
----
-
 ###
 
 <div align="left">
@@ -43,8 +41,6 @@
 
 <h3 align="left">Framework</h3>
 
----
-
 ###
 
 <div align="left">
@@ -56,8 +52,6 @@
 ###
 
 <h3 align="left">Base de datos</h3>
-
----
 
 ###
 
@@ -72,8 +66,6 @@
 ###
 
 <h3 align="left">Tecnologías & Herramientas</h3>
-
----
 
 ###
 
@@ -115,5 +107,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rodriiii94/rodriiii94/output/snake.svg" alt="Snake animation" />
 
 ###
