@@ -22,6 +22,8 @@
 
 <h3 align="left">Backend</h3>
 
+---
+
 ###
 
 <div align="left">
@@ -32,7 +34,9 @@
 
 ###
 
-<h2 align="left">Framework</h2>
+<h3 align="left">Framework</h3>
+
+---
 
 ###
 
@@ -45,6 +49,8 @@
 ###
 
 <h3 align="left">Base de datos</h3>
+
+---
 
 ###
 
@@ -59,6 +65,8 @@
 ###
 
 <h3 align="left">Tecnologías & Herramientas</h3>
+
+---
 
 ###
 
