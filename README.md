@@ -100,16 +100,12 @@
 ###
 
 <div align="left">
-  <a href="rodrisantaga94@gmail.com" target="_blank">
+  <a href="mailto:rodrisantaga94@gmail.com?subject=Hola%20desde%20GitHub&body=Me%20interesa%20tu%20trabajo!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jose-rodrigo-santamaria-gallardo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rodriiii94/rodriiii94/output/snake.svg" alt="Snake animation" />
 
 ###
