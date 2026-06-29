@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋, me llamo Rodri y soy estudiante de Desarrollo Web</h2>
+<h2 align="left">Hola👋, me llamo Rodri y soy estudiante de Ciberseguridad</h2>
 
 ###
 
